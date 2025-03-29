@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "eb55",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "40.38002840251183",
+        "lng": "-3.6035156250000004"
+      },
+      "date": "2024-09-18T07:17:08.056Z",
+      "notes": ""
+    },
+    {
+      "id": "82e5",
+      "cityName": "Naut Aran",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "42.66628070564928",
+        "lng": "0.8569335937500001"
+      },
+      "date": "2024-09-18T07:17:16.470Z",
+      "notes": ""
+    },
+    {
+      "id": "4574",
+      "cityName": "Tondela",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "position": {
+        "lat": "40.56389453066509",
+        "lng": "-8.151855468750002"
+      },
+      "date": "2024-09-18T07:21:44.300Z",
+      "notes": ""
+    }
+  ]
+}
